@@ -1,0 +1,12 @@
+{
+    "name": "3d-card",
+    "description": "A 3D tilting card component using framer-motion.",
+    "dependencies": ["framer-motion"],
+    "files": [
+      {
+        "name": "3d-card.tsx",
+        "path": "components/ui/3d-card.tsx"
+      }
+    ]
+  }
+  
