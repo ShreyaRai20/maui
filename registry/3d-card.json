@@ -5,6 +5,7 @@
   "dependencies": ["framer-motion"],
   "files": [
     {
+      "type": "registry:file",
       "name": "3d-card.tsx",
       "path": "components/ui/3d-card.tsx"
     }
